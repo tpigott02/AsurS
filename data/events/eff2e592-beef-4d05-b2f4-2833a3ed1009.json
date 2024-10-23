@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "b60a5655-5f99-41ac-b537-62d4cc94577f": {
+      "label": "Afrique sur Seine",
+      "is_offline": false,
+      "file_url": "https://dlib.indiana.edu/avannotate/bouchard/AFRIQUE_SUR_SEINEbluray-high.mp4",
+      "duration": 1354
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "AfriquesurSeine",
+  "created_at": "2024-10-23T16:10:03.095Z",
+  "created_by": "tpigott02",
+  "updated_at": "2024-10-23T16:10:03.095Z",
+  "updated_by": "tpigott02"
+}
