@@ -1,5 +1,4860 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 27,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Credits"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "ffdf4058-b069-4f0e-8378-23f33491bb80"
+    },
+    {
+      "start_time": 90,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children playing. Footage from Afrique 50 by René Vautier."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "ba0d9b9d-d983-4cee-905f-10985da0489f"
+    },
+    {
+      "start_time": 163,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Establishing shots of Paris"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "10183549-1c2b-40c0-b5bb-8ee4cdc282b5"
+    },
+    {
+      "start_time": 203,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man in suit rides trolley and goes to a café"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "4a8341d6-c1e9-44ff-83cd-de3a5c6693f7"
+    },
+    {
+      "start_time": 300,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Old man asks for cigarettes, interacts with other Africans outside of a restaurant, in the streets"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "0c9fa238-deef-4359-8e4d-a05ab9bb3c65"
+    },
+    {
+      "start_time": 426,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Footage of Notre-Dame de Paris"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "62e70b45-d41b-468d-a5cf-735a2eb693f3"
+    },
+    {
+      "start_time": 445,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children in street playing in the gutters, watching merry-go-round"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "40f86078-19f8-4ff5-8338-2a86fc533cf1"
+    },
+    {
+      "start_time": 490,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notre-Dame and the Seine"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "eb06c13c-dc26-4ee3-a58d-e46d07f00189"
+    },
+    {
+      "start_time": 506,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man gets in a taxi, seemingly guiding the visit of Paris that happens in this section"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "9a1d2dfd-6750-4179-9033-caf6748918b7"
+    },
+    {
+      "start_time": 657,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trolly worker in uniform"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "1818a223-f3e4-4b83-8118-94c9de1d2954"
+    },
+    {
+      "start_time": 690,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man and woman on motorbike"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "d0ef0f21-16a5-4709-b9b0-27a020ccca51"
+    },
+    {
+      "start_time": 747,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blind man, played by Vieyra"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "59c6a89c-a215-433c-aa49-38f941bf4c0e"
+    },
+    {
+      "start_time": 770,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notre-Dame"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "55b6ab4b-b174-4842-9080-2715f8a70a03"
+    },
+    {
+      "start_time": 794,
+      "end_time": 863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shots of various women and men"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "869909c9-d12d-45b6-b648-b0c1170552ea"
+    },
+    {
+      "start_time": 863,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman in dress, played by Marapessa Dawn, waits for her lover while being watched by another man"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "2b8674b7-37c3-4913-bfec-8dc1d49cae67"
+    },
+    {
+      "start_time": 933,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two men in suits, who separate, and one continues walking with a white lady to the metro"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "1546fa98-ac72-44de-b018-087899e05f5b"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man in suit joins his friends for dinner"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "3d73273a-4b10-4a0f-9feb-a4582ab8c271"
+    },
+    {
+      "start_time": 1152,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men walking out to car"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "dd80f629-d35d-4e25-b816-e3e5c6e9bcc0"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man enters the bar, greets a couple of people, and looks around for someone inside the bar while others dance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "a9100663-eeb1-441e-a860-a3d3b25f00d7"
+    },
+    {
+      "start_time": 1249,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Walking in street out of bar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "d88fbcb6-f90e-4338-a185-035091602513"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End credits"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "2ec08d43-6549-41cf-b81c-ad2ef658666f"
+    },
+    {
+      "start_time": 90,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pedestrians 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "67189e20-83b1-4047-9d59-55276c78c82a"
+    },
+    {
+      "start_time": 506,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transit "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "d2180ed6-bd35-41c8-a688-1e504fedf659"
+    },
+    {
+      "start_time": 747,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pedestrians 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "29f88be6-b29e-4acb-a225-cf218c7ecba7"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interiors"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "fba1c7cb-9932-4530-8c64-2b3bc8a36669"
+    },
+    {
+      "start_time": 27,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the patronage of the ethnographic fim committee"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ec25880c-1a4a-46dc-abb9-986327211804"
+    },
+    {
+      "start_time": 31,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of the Museum of Man"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "32fa16ff-9765-4290-97fa-9ab3f9cb5bcb"
+    },
+    {
+      "start_time": 33,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The African Cinema Group presents"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d420db70-8b28-490d-8d35-fd560301b36b"
+    },
+    {
+      "start_time": 39,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AFRICA-ON-SEINE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ef58e648-3ed4-4056-8011-d9e72a705a65"
+    },
+    {
+      "start_time": 99,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before the sun"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "56d31548-ac8e-4812-9ab7-0502b27fc758"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and our elders, we would shout our independence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7f851d87-5ca5-450f-93ae-8ab29c298990"
+    },
+    {
+      "start_time": 104,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Young, carefree,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "14b58469-20c6-42ad-8112-c29c2b25a078"
+    },
+    {
+      "start_time": 106,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ignorant of the world around us"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "e5e7bf56-1e10-4284-bd66-dd96c19f2047"
+    },
+    {
+      "start_time": 110,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knowing nothing but our little corner of Africa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c67763b9-d830-4153-9e0a-97af17829ea1"
+    },
+    {
+      "start_time": 114,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't know other regions existed,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "35ac5eb4-4dac-4e9c-8731-b2f16222cf5f"
+    },
+    {
+      "start_time": 118,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where other little black, yellow"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "929f9550-7c03-4433-b073-aa4ea95e2b0f"
+    },
+    {
+      "start_time": 121,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and white children played"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "8cdefba2-4dc0-42bc-a2ac-b64718c7494e"
+    },
+    {
+      "start_time": 123,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and wrestled in other rivers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a87c408d-053f-4d6d-a92e-0d54387c204d"
+    },
+    {
+      "start_time": 125,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had our Niger,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "225c2300-5257-48d4-ba35-67d2c6337a16"
+    },
+    {
+      "start_time": 129,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "our sun, our forest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "fe0b9eec-dd35-4536-9768-d93d08f1fc13"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were good times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "8d47045d-37cb-4ca6-99ae-eb8b125daca8"
+    },
+    {
+      "start_time": 135,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The time of the kingdom of children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "77f3ea39-5d13-4a57-aa0f-1319bd3e114e"
+    },
+    {
+      "start_time": 138,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children of the whole planet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "db205d18-d238-4558-9251-43ad5bafee83"
+    },
+    {
+      "start_time": 141,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long ago..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "8df578ad-686d-4082-acd1-9c6697f59a60"
+    },
+    {
+      "start_time": 144,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does time matter!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d5d56fb6-8b63-4693-af38-db517ae32997"
+    },
+    {
+      "start_time": 155,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had to grow up, leave home for Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "b6cfd20e-f7cc-4b11-bbd7-b5a3ff93cf2e"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "capital of the world, capital of Black Africa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5191b0c9-37fe-428b-8bd7-89725c37b5e2"
+    },
+    {
+      "start_time": 163,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, mists have replace the sun."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5073dbd2-d04b-422d-a82c-17af5a3f07ca"
+    },
+    {
+      "start_time": 167,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Machine noises, those of men of nature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "9a058c2f-a90e-4f9a-9a61-547c7690616f"
+    },
+    {
+      "start_time": 171,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Paris is the centre of hope,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "91a41869-ec7d-4f24-b31d-875d840fdf86"
+    },
+    {
+      "start_time": 174,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "all hope."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f455f760-0e1e-4b78-9cde-9fb8f3f64b8b"
+    },
+    {
+      "start_time": 177,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris is also the city of promises"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "bfcc3b66-4d1c-4e31-875f-4f4f29268dd4"
+    },
+    {
+      "start_time": 179,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "made by young men to help their country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ac54bd25-6994-4981-a61c-bd8cb8be80a9"
+    },
+    {
+      "start_time": 185,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6166ab75-646b-482f-8c02-c229ad117ed3"
+    },
+    {
+      "start_time": 187,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where are your gold-paved streets from our nusery books?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c69bd03c-a72a-441b-a6ca-9b2f694fe98a"
+    },
+    {
+      "start_time": 248,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The streets have become"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "54c98995-cf62-48fc-bd92-7eb37c96c61a"
+    },
+    {
+      "start_time": 250,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boulevard Saint-Germain,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5368309b-6ab6-416a-b9dc-40c293d0ae13"
+    },
+    {
+      "start_time": 252,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rue de l'Odéon,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "4cf14aa6-9c26-4918-93d0-0b5aca0269b5"
+    },
+    {
+      "start_time": 254,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Maison Molière,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "19ce4dc7-86ad-4cb0-a030-d260e12bd857"
+    },
+    {
+      "start_time": 256,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Place de la Comédie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7ff93a87-8d31-4d85-ae02-ecc71aaf5ba1"
+    },
+    {
+      "start_time": 259,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where I found, one morning,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c0113241-513b-4fbb-98a3-76ecadab2509"
+    },
+    {
+      "start_time": 263,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "civilization, at the school of outstretched hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "bfea1720-20cf-49d4-82d8-33dde3369896"
+    },
+    {
+      "start_time": 273,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among these streets"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "64f63c7d-bec9-4fef-96d4-43d4a396b72d"
+    },
+    {
+      "start_time": 275,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "are Rue de Médicis,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7d511c05-934f-434b-837b-177e802f9241"
+    },
+    {
+      "start_time": 280,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rue Soufflot,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "9d360862-1fc4-4183-98a5-0922d09e3070"
+    },
+    {
+      "start_time": 283,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the Latin Quarter, home to students"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "be6911eb-bb95-46d4-8af2-0817e2f1ca1b"
+    },
+    {
+      "start_time": 288,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- O, llustrious dead of the Panthéon -"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "8a282a2e-55a8-4dca-b34f-e4819a4272fb"
+    },
+    {
+      "start_time": 291,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who are found, when they can be found,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "81a2bca7-bc62-45f8-b5c6-f171aec564ec"
+    },
+    {
+      "start_time": 294,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in stuffy hostels"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "3b19b8b4-5537-4b4a-8797-0876a9136c74"
+    },
+    {
+      "start_time": 297,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "with no sun,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ff15f9a6-45e1-49fb-b8fd-d60baa3401cc"
+    },
+    {
+      "start_time": 299,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "often two to a room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ae258958-d421-4764-8dd0-07adfb7751ce"
+    },
+    {
+      "start_time": 394,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, days without bread."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "744b7e5d-3a13-4d26-a7da-cd17365cfb2e"
+    },
+    {
+      "start_time": 397,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, days without hope."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "9d7239af-753f-40ca-a066-6a8ad4404202"
+    },
+    {
+      "start_time": 401,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, streets of gold in fairy tales for black children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "2894fe9a-4396-462b-a126-8ca2f9665821"
+    },
+    {
+      "start_time": 407,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, where solitude"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d7505f45-3276-4a69-a356-5358678bb4fd"
+    },
+    {
+      "start_time": 411,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mingles with perpetual fraternity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "e3a996a4-c44f-4465-a847-770d092538f3"
+    },
+    {
+      "start_time": 436,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, incomparable variety."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "80d0b59d-7b6f-45f6-9ec6-76eaa56d65c0"
+    },
+    {
+      "start_time": 453,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, burgeoning fraternity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "45a6d019-5fd5-46d4-86c9-4629ba541f4e"
+    },
+    {
+      "start_time": 462,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And may they turn, may they turn"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7f53c1da-0c2f-4b34-910c-8030120078be"
+    },
+    {
+      "start_time": 466,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for you, children,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "4918bea5-7817-488f-9bca-3e44dda4705d"
+    },
+    {
+      "start_time": 468,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the carousels of hope"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "4340912e-e15b-4edb-950e-244f4089276e"
+    },
+    {
+      "start_time": 470,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of a bright future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "e8cebdf4-f2ac-42f0-bb17-6f16ffc6c4b6"
+    },
+    {
+      "start_time": 513,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In going to discover Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c619e833-8338-44cb-bd1b-d1b419a1a8a6"
+    },
+    {
+      "start_time": 518,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "going in search Africa-on-Seine,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "66ad07cc-dabf-443b-accd-b5852c437041"
+    },
+    {
+      "start_time": 521,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we have the hope of finding ourselves,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5b5fcfaa-6c86-4e03-9c3e-617f1b2e3e4f"
+    },
+    {
+      "start_time": 524,
+      "end_time": 527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the hope of meeting up,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f2327b4e-1ed2-41a0-b1c2-6bdf6a32d8c1"
+    },
+    {
+      "start_time": 527,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the hope of finding civilisation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "3dbd0a65-e762-4939-b8ee-79ca8678d761"
+    },
+    {
+      "start_time": 532,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salute the genius of men of liberty,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f1def913-b8e3-43da-894a-d9755285cdbf"
+    },
+    {
+      "start_time": 536,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salute the peaceful victories"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "2a219efd-2ef6-45a8-b7d2-d322f0f74553"
+    },
+    {
+      "start_time": 542,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of peaceful men."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "cb7822b6-0257-420c-9b7f-97c4748039b1"
+    },
+    {
+      "start_time": 545,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salute all the monuments of Paris."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6114b3d4-e465-4150-aa7d-4cedf5af3cbc"
+    },
+    {
+      "start_time": 547,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Witnesses of glories past and present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "bfc53d86-9c46-4d07-97e2-ca5c73cfd11d"
+    },
+    {
+      "start_time": 934,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The world, in the Latin Quarter, assembles itself,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "da6b98e6-fad7-4e43-94e1-c8e5feee3087"
+    },
+    {
+      "start_time": 937,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "assimilates itself,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c24222fd-0a08-4df1-87dc-d8186faa7cef"
+    },
+    {
+      "start_time": 940,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to try to melt, in the sun of love,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "eb721412-925b-4884-95be-6e4dec832cfb"
+    },
+    {
+      "start_time": 943,
+      "end_time": 948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the ancient barriers of prejudice and monuments of hate,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "8c4def90-7d3c-4459-9cf8-d5642d2701e6"
+    },
+    {
+      "start_time": 948,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in order to bring closer, in order to understand,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "8562984a-159c-4e07-b1aa-b07a64e4618d"
+    },
+    {
+      "start_time": 952,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "despite the falsifications"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5298ed36-3411-411b-aba4-5afd9c3c9964"
+    },
+    {
+      "start_time": 955,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that men have wrought"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "3afd1bb2-6b6e-4c66-b4cc-3641debe7b27"
+    },
+    {
+      "start_time": 957,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "on the history of good peoples."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "813745bd-7068-4979-8926-19e069da4fa7"
+    },
+    {
+      "start_time": 960,
+      "end_time": 962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Calculated solidarity"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1534ff93-2b1b-4001-8268-32b7bd80c876"
+    },
+    {
+      "start_time": 962,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and a fraternity of principle, without warmth,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7b94f425-3f45-43da-ab87-2d8fd3c5b413"
+    },
+    {
+      "start_time": 966,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "make way for happiness shared,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "cc764e7b-2d14-439f-95a4-ab9a94d0ca49"
+    },
+    {
+      "start_time": 970,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "make way for earthly foods."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "30733cdb-3f3a-48d6-8682-c5bf4b370855"
+    },
+    {
+      "start_time": 973,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fruits of the earth for all,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "064e2eea-069c-487f-adf4-7c0f872eb229"
+    },
+    {
+      "start_time": 976,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the fruits of culture for all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "53645cb1-ed5e-4498-b7fe-95e4765e4df6"
+    },
+    {
+      "start_time": 983,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's in this old quarter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "62f7e809-d648-4889-a8b6-7f1a4258431e"
+    },
+    {
+      "start_time": 986,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of letters and science,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "e6e57c2c-e25c-4902-95de-1382fcb4e49b"
+    },
+    {
+      "start_time": 990,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that the wind of hope blows,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ed40c9b9-408d-4982-991a-e642f278eefa"
+    },
+    {
+      "start_time": 994,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the wind of happiness and of love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "03f78311-28da-4411-afb6-4186f10ca7d9"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1052,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And evenings,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5a547de5-44e1-4f4a-8048-51f73007089a"
+    },
+    {
+      "start_time": 1052,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "together at feasts of friendship,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "57dd7a68-b555-432d-9870-78f8f913465d"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the belly full,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "64a87834-2144-4604-8ec0-ecfc08c98caa"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the face radiant,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ac2701d7-1bfc-4028-8768-4eeacc39c63e"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the heart open and the arms outstretched,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "0a1d1a79-d6bc-47c0-ae24-6c2582807c4c"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "despite men's machinations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c61e721d-f331-4936-946b-2954fd31eb9e"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, still together,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f449b20e-e082-42bb-9b93-fe53372d8453"
+    },
+    {
+      "start_time": 1194,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "black friends and yellow friends,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "b1c8ef46-241c-46ae-acfe-86c4be38cec6"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "black friends and white friends,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f25617e5-583a-498b-a212-d6b8873ecf76"
+    },
+    {
+      "start_time": 1200,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in our dances of love,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f399fe85-f0f8-4170-9ef6-5c9ff06659a1"
+    },
+    {
+      "start_time": 1203,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "heart to heart,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "701938f3-6867-42aa-be75-14a8ec6f0997"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "side by side, beyond the darkness,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d31fb59d-2665-4140-9b75-9a676d07ee1c"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we are winning the battle of light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "4f2c1f6b-2381-43ef-9386-1f12e404e9cc"
+    },
+    {
+      "start_time": 1212,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before God"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1ece1f5d-3dec-4fcf-bc46-3da1827a21d6"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and before others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "0d443d2e-747b-4c29-beff-34cfdf4d253b"
+    },
+    {
+      "start_time": 1283,
+      "end_time": 1288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subtitles: ECLAIR"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "23e5ca9d-31f7-4e40-8b3e-3f5eb4323683"
+    },
+    {
+      "start_time": 1288,
+      "end_time": 1292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Afrique-sur-Seine is a collective film made in 1955"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "26bc3533-6d82-4498-a3c2-f5bf1c3746be"
+    },
+    {
+      "start_time": 1292,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "by Paulin Soumanou Vieyra and Mamadou Sarr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f3c49216-155a-4849-9d60-9fdcb8cb2e79"
+    },
+    {
+      "start_time": 1295,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The orginal 16mm negative having disappeared,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "995ce85b-992f-4923-be68-90b08df696e1"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the film has been restored from an interpositive,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d336ff76-5f07-45a1-ac86-db70f554a44e"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the best photochemical element known to exist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "e7715981-9b61-4509-a74a-11d0ff6740f3"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This incomplete copy included many black frames."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "70f2e86f-c0e8-41fc-9314-c1dfb7975f74"
+    },
+    {
+      "start_time": 1308,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To make the movie more watchable,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5fd6d8b5-b598-460a-b1a4-776c13b41524"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it was decided to establish a digital version of the remaining master"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "45820187-b148-4cae-a3e1-89ae14d4cb4b"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and to delete the black frames we could not recreate,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "344d7de3-3015-407f-af2e-debbd0085573"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as well as head leaders."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7ddba0d8-a8f5-42c4-89ff-4cc6032e6aab"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The soundtrack, rescued from a 16mm sound negative"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "463ac734-26f3-4f3a-a084-560382082adf"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and longer than the restored images,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "b634f11a-6048-4174-ab1c-06a79bb8680f"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "has been edited and adapted for more comfortable listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "b4050b19-f52b-4026-88fa-39127e7cf9a5"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The original file has been digitally preserved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a4fbeb65-c8d0-4ab9-9556-971dbee1bcb4"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This film is a part of the African Film Library's restoration plan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "567e3bf3-6c4f-48bb-8685-207950a34ff6"
+    },
+    {
+      "start_time": 1341,
+      "end_time": 1345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "initiated by the CPCA (African film heritage committee)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "374a7fab-d94b-4505-bb77-f1a5b1106746"
+    },
+    {
+      "start_time": 27,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "967cf7e8-82f4-4a8d-b10b-b4c4f3ead2a6"
+    },
+    {
+      "start_time": 31,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07dbbda8-0c36-4c3a-b01d-d23d1d30b62d"
+    },
+    {
+      "start_time": 33,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f0cd61c4-fe3f-4d95-8c81-376083dd0aae"
+    },
+    {
+      "start_time": 39,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e6f569a-c401-4fb7-a69f-1208db5f9ae7"
+    },
+    {
+      "start_time": 99,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A la face du soleil"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5f2c807-abf6-4f4e-91bd-cf56f3c4ec50"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "et des ayeurs, nous crions alors notre l'independence."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7514cd82-64da-4fa8-a8cd-5042a02fc72a"
+    },
+    {
+      "start_time": 104,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeune, insoucieux"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90d30ac1-b845-4945-ad9e-7b811466fb6c"
+    },
+    {
+      "start_time": 106,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ignorant du monde qui nous entourer."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1f450fbd-4187-4caf-9670-354ad6592372"
+    },
+    {
+      "start_time": 110,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nous ignorions le region qui limiter notre coin d'Afrique."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9dfe490f-7593-468c-8ab7-053b439735d7"
+    },
+    {
+      "start_time": 114,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nous ignorions qui peut-etait exister d'autres regions"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "89ae047b-4993-469f-988a-97d5ca6edc47"
+    },
+    {
+      "start_time": 118,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ou des petits noirs, les petits jaunes,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f42e72a7-889e-43c8-9c9c-e384b58098ff"
+    },
+    {
+      "start_time": 121,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ou petit blanches joueait,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "14659465-c24c-4b2c-8fe7-ec8893304274"
+    },
+    {
+      "start_time": 123,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se battait dans d'autres fleuves."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "73fb0875-4ce6-4e3b-ac31-6cbf82cf2a6c"
+    },
+    {
+      "start_time": 125,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Et nous avions notre Niger,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ccb2f0d-dbca-4f63-a779-94fc108b750c"
+    },
+    {
+      "start_time": 129,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "notre soleil, notre foret."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e3f9227f-a3d6-4322-afe3-9d36b0478d64"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C'etait les bons temps."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d9de2c1f-cde7-46e9-904f-eb5fdc4707f6"
+    },
+    {
+      "start_time": 135,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Les temps du royaume des enfants."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d313dc86-e88e-4c5e-960e-dabda1a40f80"
+    },
+    {
+      "start_time": 138,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Les enfants de toute la terre."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "692e0de0-9f2f-4496-8880-54a57af97acf"
+    },
+    {
+      "start_time": 141,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il y a de cela..."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "608b26e3-d76d-4ebf-9384-0b0f6f98cbbd"
+    },
+    {
+      "start_time": 144,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quel importe les temps"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62ed3cc7-a045-456d-bf26-5b6d3ad90f88"
+    },
+    {
+      "start_time": 155,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il fallu grandir et quitter le pays pour Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a72e088b-cde6-417c-9cfd-87a6119cc3b9"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "capital du monde, capital de l'Afrique Noire."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "24be1d37-817f-4fa7-9394-5cd16702e0d1"
+    },
+    {
+      "start_time": 163,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ici,la brume a remplace le soleil."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15f7ff0f-e594-4676-93e1-dd55db4e6c60"
+    },
+    {
+      "start_time": 167,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Les cles(?) des machines, ceux des hommes de nature."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "671300d7-2ce8-4269-a651-75fde23d7b86"
+    },
+    {
+      "start_time": 171,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mais Paris est le centre d'espoir,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "031f59a3-1791-45e3-84e4-5a350e05abac"
+    },
+    {
+      "start_time": 174,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de tout l'espoir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "242697e9-1dba-432e-87b8-ad71ca9685f1"
+    },
+    {
+      "start_time": 177,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris est aussi le ville de promesses"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "99f5cbee-ec86-4f71-a413-ec150140482d"
+    },
+    {
+      "start_time": 179,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "faite par les jeunes alors pays des aides."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "68caadc5-ffb2-436c-aeb4-e2107f8f3eb3"
+    },
+    {
+      "start_time": 185,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "461f05aa-d342-4120-8820-7e5d38e558c6"
+    },
+    {
+      "start_time": 187,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ou sont donc les chemins en or de nos contes enfant?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "abdeeb15-5218-4bf7-8ade-1b4bc69bf0b4"
+    },
+    {
+      "start_time": 248,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ces chemins sont devenues"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f797b225-fb46-4527-9a8b-a6d9b759f62a"
+    },
+    {
+      "start_time": 250,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boulevard Saint-Germain,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7d47f4a8-e0e4-4881-9ac2-8e34d5c76123"
+    },
+    {
+      "start_time": 252,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Rue de l'Odeon,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "098ee590-a03f-4791-8420-581b3bd23199"
+    },
+    {
+      "start_time": 254,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Maison Moliere, "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7a0ff26f-e1d9-4457-8ed9-04159328a0af"
+    },
+    {
+      "start_time": 256,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Place de la Comedie."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5015526b-2598-4d67-b9c0-d24cf4eb9204"
+    },
+    {
+      "start_time": 259,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ou j'ai trouve, un matin,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1be3f844-7ccd-44d7-8f7a-c006fe916c90"
+    },
+    {
+      "start_time": 263,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la civilisation a l'ecole de mains entendue."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6e403d26-5b3c-45c0-9a5d-564eca9adf63"
+    },
+    {
+      "start_time": 273,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ces chemins,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bd778c11-88cb-4c9c-9e33-79758074283c"
+    },
+    {
+      "start_time": 275,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sont encore la Rue de Medicis,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9aeb97da-a38d-4ee1-97ba-251d824de19e"
+    },
+    {
+      "start_time": 280,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Rue Soufflot,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ac9e54c5-747a-45ca-b2e8-47ae45831a35"
+    },
+    {
+      "start_time": 283,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la quartier latin, ou le chez soi pour les etudiants."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29a22c54-2164-4f26-a4eb-6bffc0c72426"
+    },
+    {
+      "start_time": 288,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O mort illustre du Pantheon."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "188c16c7-ed71-45fc-b0e0-b0c504a8e953"
+    },
+    {
+      "start_time": 291,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ceux trouve quand il se trouve,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "92a6c890-f9ab-4b3a-a482-db2d7b7ea212"
+    },
+    {
+      "start_time": 294,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "dans les hotels"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90791562-3432-4605-996b-bfc1758b460f"
+    },
+    {
+      "start_time": 297,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "712f696d-517d-4f5f-bc4c-396784c64471"
+    },
+    {
+      "start_time": 299,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "45229340-475a-4f31-be33-d08a0deea676"
+    },
+    {
+      "start_time": 394,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90b61cc0-3665-4963-88c5-44ccf02ddd38"
+    },
+    {
+      "start_time": 397,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7e89069d-11b2-4f6e-841d-bf163d52e632"
+    },
+    {
+      "start_time": 401,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3caf00f0-d437-4757-a940-43be9d936653"
+    },
+    {
+      "start_time": 407,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a1196a6d-4fa6-4915-9467-7237b0029082"
+    },
+    {
+      "start_time": 411,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "365df360-ad7c-476e-b60a-f1c0bfc689dd"
+    },
+    {
+      "start_time": 436,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3c3693e-93f2-4cd9-ae17-249567bc88e5"
+    },
+    {
+      "start_time": 453,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "59455d78-ecd7-4907-8e1d-c300cf14c924"
+    },
+    {
+      "start_time": 462,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00fedbc1-cf52-44b5-b3cd-5abd8962a0f8"
+    },
+    {
+      "start_time": 466,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15a21f2d-c386-4b5a-9f6e-34a0f9ca26bd"
+    },
+    {
+      "start_time": 468,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e7aa1059-5452-435f-84c4-14689bfe5ff1"
+    },
+    {
+      "start_time": 470,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0e606f53-5d7f-4ce8-a847-f8bd7bb0527c"
+    },
+    {
+      "start_time": 513,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8941518f-e21a-4b08-b8f9-0d7afb5e539b"
+    },
+    {
+      "start_time": 518,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c44591b-d5a2-4ebb-95e1-53fcbb8665e4"
+    },
+    {
+      "start_time": 521,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56fb3ed5-6929-43b2-8255-7258318b6622"
+    },
+    {
+      "start_time": 524,
+      "end_time": 527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c9a9b9f3-f0ac-417f-8d9b-1f804b6f2e1c"
+    },
+    {
+      "start_time": 527,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "941eefc1-d533-42f8-81f8-210598f86725"
+    },
+    {
+      "start_time": 532,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "51bf39df-46f3-4e3b-9410-97e763fb324e"
+    },
+    {
+      "start_time": 536,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "46986744-c1c0-4e37-aeb9-643488707a73"
+    },
+    {
+      "start_time": 542,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "30ab2f2f-5564-4a53-b459-2a98e53a2b62"
+    },
+    {
+      "start_time": 545,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "452914bd-e63d-4cef-8571-20649ba51dd6"
+    },
+    {
+      "start_time": 547,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b25e25d9-33fa-4a10-945a-e0a9d12bf449"
+    },
+    {
+      "start_time": 934,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "42a691f5-cdf8-4adf-8036-ed2a9e3c3bc2"
+    },
+    {
+      "start_time": 937,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25d44b1e-5902-47ed-8970-de530d4553fa"
+    },
+    {
+      "start_time": 940,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6017987b-be6f-4f1a-9ed6-47330dbccbf0"
+    },
+    {
+      "start_time": 943,
+      "end_time": 948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a9d473a2-292b-4490-871d-2dd69ddd5528"
+    },
+    {
+      "start_time": 948,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0dd85611-1ade-48ca-ace4-a7116f77e7f8"
+    },
+    {
+      "start_time": 952,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ccbf9435-5b3e-45c2-b75f-60c88ebb5cf5"
+    },
+    {
+      "start_time": 955,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9b580be4-d3ac-480d-a000-8904ea1ca37c"
+    },
+    {
+      "start_time": 957,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25026541-0c51-4ee4-8b7e-7f9a2ba0f89a"
+    },
+    {
+      "start_time": 960,
+      "end_time": 962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8688d904-0127-494d-bf6d-157288cc2663"
+    },
+    {
+      "start_time": 962,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "433fad1c-18ba-44fa-911b-21f0163d2e44"
+    },
+    {
+      "start_time": 966,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b8dec573-f335-4e57-bd8d-aacaf709efad"
+    },
+    {
+      "start_time": 970,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2ebe5bba-d73e-42cd-a656-14ac370e95de"
+    },
+    {
+      "start_time": 973,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5063dd77-4ccb-41b7-b6e2-216c17992301"
+    },
+    {
+      "start_time": 976,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83c8d6e7-f13a-4796-8384-f5bb8fb64169"
+    },
+    {
+      "start_time": 983,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1bb795c5-9141-4b15-b9bf-4a381b8f3a21"
+    },
+    {
+      "start_time": 986,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd00f055-55e0-4fdb-939e-beb74cb7e15a"
+    },
+    {
+      "start_time": 990,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0a6a2b41-e647-447c-9ff7-186f44156709"
+    },
+    {
+      "start_time": 994,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "05cf6499-380c-4b80-b3e3-887d7bc5dbfc"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1052,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "40927f9a-0998-478a-8467-2c722d67c4be"
+    },
+    {
+      "start_time": 1052,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2d0d7f9b-aa29-42b4-83af-aaa5eb3b7cb6"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7c9ffd0d-3a12-4f76-b9ff-27fb727c28d0"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9317a3e-379e-4ec7-bbe0-8b2cc427d53e"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ddb6c7ab-ac5e-4225-9212-71b89c8dc4ef"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e92d3f71-ca50-4b5a-bd12-9c7b5ef95f37"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fdb58e7b-d243-4522-8443-706fc755f1b3"
+    },
+    {
+      "start_time": 1194,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f8922a27-b7df-47da-af71-b293a56eec2d"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d66d134c-ca06-43b6-b5a8-e66092a5dbcd"
+    },
+    {
+      "start_time": 1200,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a98b474d-f69c-445b-9b94-cdae6cade65a"
+    },
+    {
+      "start_time": 1203,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f1aeb002-4315-42b3-b1cc-aef674bfb32f"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3687fa2-562a-410a-b2a6-230a48bb95c8"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07c5c61b-d1b1-4992-9214-c9162f590edf"
+    },
+    {
+      "start_time": 1212,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70ced6f0-eab6-40ea-ac18-6b65c0c9525a"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75499562-83b7-4949-b532-20f04d781423"
+    },
+    {
+      "start_time": 1283,
+      "end_time": 1288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6fb2e4e3-e181-46bc-a0ac-6006f6a27896"
+    },
+    {
+      "start_time": 1288,
+      "end_time": 1292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f0882c56-1a35-495c-a3fa-44f69ae1db01"
+    },
+    {
+      "start_time": 1292,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ed6c3a1-1cbe-4eb9-99cd-f8d59d15c1c6"
+    },
+    {
+      "start_time": 1295,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53e7596a-9aae-4d83-9f8d-bbe7019a2bb6"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e3cd8045-eaf9-4335-b02c-4e8b57d1dfaf"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6b044075-688a-495b-ba98-a2f254cca900"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "73b995dc-d259-418b-818c-f0eb0aecfe6e"
+    },
+    {
+      "start_time": 1308,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "df5bfbea-c365-48b4-94c3-cc16527a6f0a"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce351d00-726d-4b3e-a6ae-430fb018fed6"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a6ca38c-6550-4216-a7a6-47902dc501b7"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6103fb9c-0ca4-4c30-bc19-0efef9684948"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c11ce7b6-a207-4dcb-93dc-78e6318d2e5c"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "65169d46-b703-4612-8a0b-c3fe930769ba"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2ea7d905-14e7-46a2-8d7e-74b9bf5c13a2"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8925749d-0cef-454a-aae4-0cca210cd458"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0aacac74-e951-464d-ba82-3f061a10a1d2"
+    },
+    {
+      "start_time": 1341,
+      "end_time": 1345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6e091e69-2533-4211-a886-a086517df782"
+    }
+  ],
   "set": "Default",
   "event_id": "40c53fd4-280d-4ac8-8442-aeade53d07ab",
   "source_id": "c88d4dca-c453-47dd-9dc0-35ad96c67ddf"
