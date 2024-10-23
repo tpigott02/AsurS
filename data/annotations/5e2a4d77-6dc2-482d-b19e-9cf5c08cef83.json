@@ -1,5 +1,3828 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 27,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Credits"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "afc480a9-a7e0-4f15-a2a9-50022485a849"
+    },
+    {
+      "start_time": 90,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children playing. Footage from Afrique 50 by René Vautier."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "fb1f72f8-4499-4c0b-adde-b3ee7ef3b590"
+    },
+    {
+      "start_time": 163,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Establishing shots of Paris"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "a84e502e-d0cf-41c7-8287-7cab57950059"
+    },
+    {
+      "start_time": 203,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man in suit rides trolley and goes to a café"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "d1b2f0a9-9399-4b4f-a6b6-55318b2a5910"
+    },
+    {
+      "start_time": 300,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Old man asks for cigarettes, interacts with other Africans outside of a restaurant, in the streets"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "c5a5c1f7-60eb-432a-8cf7-a5085353e4e0"
+    },
+    {
+      "start_time": 426,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Footage of Notre-Dame de Paris"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "3219ff86-37a2-4c12-954a-ebb01cf86fbc"
+    },
+    {
+      "start_time": 445,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children in street playing in the gutters, watching merry-go-round"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "2b1962e4-8536-4cab-8af4-a26e372a2587"
+    },
+    {
+      "start_time": 490,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notre-Dame and the Seine"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "7145de78-1a01-414d-abde-92fd19ff778a"
+    },
+    {
+      "start_time": 506,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man gets in a taxi, seemingly guiding the visit of Paris that happens in this section"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "2a2f29aa-83ba-4d33-a9a6-3ced8ac0adbe"
+    },
+    {
+      "start_time": 657,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trolly worker in uniform"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "149440c3-92b2-4750-9713-c67e97ec69a5"
+    },
+    {
+      "start_time": 690,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man and woman on motorbike"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "4db47ac7-b4bc-42b4-8a69-2485ee84f2ab"
+    },
+    {
+      "start_time": 747,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blind man, played by Vieyra"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "b2b78ca2-bd25-47fe-85c0-45f7390a075a"
+    },
+    {
+      "start_time": 770,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notre-Dame"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "bbb83bfb-3696-48d1-9abf-16b23cd25b9b"
+    },
+    {
+      "start_time": 794,
+      "end_time": 863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shots of various women and men"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "e0cbf3a4-837d-4ebb-8ef3-8fa45450da50"
+    },
+    {
+      "start_time": 863,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman in dress, played by Marapessa Dawn, waits for her lover while being watched by another man"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "3f064195-1315-4bbb-9986-0f09cf4c3a62"
+    },
+    {
+      "start_time": 933,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two men in suits, who separate, and one continues walking with a white lady to the metro"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "592b80a0-4764-4e7e-a22d-82490de3bdbd"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man in suit joins his friends for dinner"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "715ab02e-d43d-488b-9d62-3298a076e6dc"
+    },
+    {
+      "start_time": 1152,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men walking out to car"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "a2d9ed01-019e-4ba4-bc18-2c75e1870ba0"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man enters the bar, greets a couple of people, and looks around for someone inside the bar while others dance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "74616f1c-ae9e-451a-a1bb-db2cceaf79fd"
+    },
+    {
+      "start_time": 1249,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Walking in street out of bar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "eaf0ee95-d5be-49aa-a86b-91b2c4d4e418"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End credits"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        }
+      ],
+      "uuid": "8d2ebe0d-cc1e-4b63-94a2-48f8a0791433"
+    },
+    {
+      "start_time": 90,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pedestrians 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "fd894431-a32c-4bf0-bc49-340acdfb4bab"
+    },
+    {
+      "start_time": 506,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transit "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "56d9299f-ab51-4709-9e15-2ef65c25e96f"
+    },
+    {
+      "start_time": 747,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pedestrians 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "7af6f38b-f0e7-4645-91c9-5f32a72cbc49"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interiors"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        }
+      ],
+      "uuid": "ec07cffb-d458-4d30-875f-4d865b702c00"
+    },
+    {
+      "start_time": 27,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the patronage of the ethnographic fim committee"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "18749fc8-c18a-4a05-9194-921ed72b3a43"
+    },
+    {
+      "start_time": 31,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of the Museum of Man"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "64acd514-b8b4-4986-85d5-c4416701419b"
+    },
+    {
+      "start_time": 33,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The African Cinema Group presents"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d060f5ca-b5fe-489b-86a4-6ac58bb60abc"
+    },
+    {
+      "start_time": 39,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AFRICA-ON-SEINE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1adea4a7-bf4a-42f2-a57a-ee426c6916f0"
+    },
+    {
+      "start_time": 99,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before the sun"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5ef2e6ea-7d0e-475d-a4f6-6a267de0a6d2"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and our elders, we would shout our independence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "61327118-8df0-404e-8f18-30bbd18384b1"
+    },
+    {
+      "start_time": 104,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Young, carefree,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d4b4d522-a3f5-400f-b57f-259f6e21f7c0"
+    },
+    {
+      "start_time": 106,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ignorant of the world around us"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "2891da47-3a01-4bcb-9e0d-ed9841aa6103"
+    },
+    {
+      "start_time": 110,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knowing nothing but our little corner of Africa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7fa53df2-af1b-4717-977c-6a42c54ece79"
+    },
+    {
+      "start_time": 114,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't know other regions existed,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "cfd7d343-9702-4cd1-a2ad-261e0179a226"
+    },
+    {
+      "start_time": 118,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where other little black, yellow"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "71f2d8bb-1035-4d40-95e3-34ca1be9bd05"
+    },
+    {
+      "start_time": 121,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and white children played"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "77453cf2-68b9-4e3f-b4e8-9ad4c2dca6b3"
+    },
+    {
+      "start_time": 123,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and wrestled in other rivers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "80a48662-4a95-43ac-8192-639d302a02f6"
+    },
+    {
+      "start_time": 125,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had our Niger,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "edfa9eaf-7e6b-4b0b-bfe1-3017e9a760c7"
+    },
+    {
+      "start_time": 129,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "our sun, our forest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1a52e3ad-d79d-4189-9544-ca6bc3dfa95f"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were good times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "70276bad-3c00-4225-b95d-67940d6af72e"
+    },
+    {
+      "start_time": 135,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The time of the kingdom of children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ed79631c-0b63-4747-9585-8c6b8a9fba8a"
+    },
+    {
+      "start_time": 138,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children of the whole planet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "2995bee7-1a7a-46ad-b8ba-a110e08109cb"
+    },
+    {
+      "start_time": 141,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long ago..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "afa8d3b3-1c90-447e-aade-8b0a2d8cb930"
+    },
+    {
+      "start_time": 144,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does time matter!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a79a32ec-4892-4783-befe-b4d1c2febdeb"
+    },
+    {
+      "start_time": 155,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had to grow up, leave home for Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "60699b07-90ee-4eac-a257-93533a99f23b"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "capital of the world, capital of Black Africa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "befc4c10-eecb-420f-bcd4-a56d4b1aaafb"
+    },
+    {
+      "start_time": 163,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, mists have replace the sun."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6bdaa990-7df4-4b6f-ae2d-c7452455e979"
+    },
+    {
+      "start_time": 167,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Machine noises, those of men of nature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "df0af1d4-ca54-4b89-bda7-ec93800f2c69"
+    },
+    {
+      "start_time": 171,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Paris is the centre of hope,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "2a07fa98-7c27-47ec-9a08-4cce30f2a2a0"
+    },
+    {
+      "start_time": 174,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "all hope."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "08547cdf-bab1-480b-8177-69bdbde4e600"
+    },
+    {
+      "start_time": 177,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris is also the city of promises"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5d514303-50c4-4b4d-b341-c7add1d9ef54"
+    },
+    {
+      "start_time": 179,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "made by young men to help their country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "000b8fb8-3a8e-43c3-ac1e-ff12723565cd"
+    },
+    {
+      "start_time": 185,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1efd167c-a3dd-4c0a-bdec-319a39477a8e"
+    },
+    {
+      "start_time": 187,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where are your gold-paved streets from our nusery books?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "ed021c45-7229-47e6-84dc-e95d83967a04"
+    },
+    {
+      "start_time": 248,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The streets have become"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "44ead6cc-43d6-44d7-831f-0fe0e6b242e0"
+    },
+    {
+      "start_time": 250,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boulevard Saint-Germain,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a9d158ae-8ff8-489a-b652-babd51e556ce"
+    },
+    {
+      "start_time": 252,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rue de l'Odéon,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "01e0cb0f-710b-47ea-a366-7acea2f4e2ea"
+    },
+    {
+      "start_time": 254,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Maison Molière,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5d3a5276-607c-493e-a376-549a216ecf65"
+    },
+    {
+      "start_time": 256,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Place de la Comédie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "72601064-d6cc-4a61-897c-268a08bffbe0"
+    },
+    {
+      "start_time": 259,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where I found, one morning,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "fe99d292-ceb9-4dd7-bd22-47fadfbe3a42"
+    },
+    {
+      "start_time": 263,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "civilization, at the school of outstretched hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d24403ef-56ca-480f-91ed-1d6337fbd3f4"
+    },
+    {
+      "start_time": 273,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among these streets"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "42a9ab5f-4610-4bdd-a7ad-579babac4a25"
+    },
+    {
+      "start_time": 275,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "are Rue de Médicis,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a29df109-5ea8-4779-a1e4-6db7971b2ece"
+    },
+    {
+      "start_time": 280,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rue Soufflot,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6556d30f-13c2-4865-9528-84eeffcb2ce6"
+    },
+    {
+      "start_time": 283,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the Latin Quarter, home to students"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "0673b5cd-c5e7-4532-bad1-9c2c26ea5518"
+    },
+    {
+      "start_time": 288,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- O, llustrious dead of the Panthéon -"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d2574809-7b76-44ce-8303-a2f52004c4ba"
+    },
+    {
+      "start_time": 291,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who are found, when they can be found,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "cd725362-562e-4154-be2c-e518d9c60457"
+    },
+    {
+      "start_time": 294,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in stuffy hostels"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c88d441c-2450-4157-b8f6-9f66e35c5bd9"
+    },
+    {
+      "start_time": 297,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "with no sun,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "3a672a12-f8d0-4658-94cd-05d11404bc0f"
+    },
+    {
+      "start_time": 299,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "often two to a room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7d14d14f-e589-44c3-a1cd-d9576820a13f"
+    },
+    {
+      "start_time": 394,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, days without bread."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "2cc0ebd8-bd5f-4a44-ac27-a5857b56e1c0"
+    },
+    {
+      "start_time": 397,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, days without hope."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "28fe6451-8d9a-42d4-b469-8916ecfe3d10"
+    },
+    {
+      "start_time": 401,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, streets of gold in fairy tales for black children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c29a124a-3108-44bd-b0e6-816c767a59ba"
+    },
+    {
+      "start_time": 407,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, where solitude"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1ad356a0-4719-4811-bc41-e48b2ddb9317"
+    },
+    {
+      "start_time": 411,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mingles with perpetual fraternity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "286529be-1fab-404c-add7-c0da4f30cada"
+    },
+    {
+      "start_time": 436,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, incomparable variety."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "71a57938-0922-4d9a-938c-7d64aaa44587"
+    },
+    {
+      "start_time": 453,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris, burgeoning fraternity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "09aa6a30-9920-4281-8581-d2940100d7cd"
+    },
+    {
+      "start_time": 462,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And may they turn, may they turn"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "b4f06759-6b8d-48ff-abfd-776850e592b0"
+    },
+    {
+      "start_time": 466,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for you, children,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c95f1ab0-988f-4bf4-aa53-8792735d2f28"
+    },
+    {
+      "start_time": 468,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the carousels of hope"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "f3e701fa-a28e-4203-97d2-9318daf281dd"
+    },
+    {
+      "start_time": 470,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of a bright future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5dc3748c-f80d-4aaa-9f49-ae72a14d0e16"
+    },
+    {
+      "start_time": 513,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In going to discover Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6442802b-ac0f-4282-80c3-27a869da706c"
+    },
+    {
+      "start_time": 518,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "going in search Africa-on-Seine,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "343ae597-8bf8-473a-a32d-aa6ae5f892da"
+    },
+    {
+      "start_time": 521,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we have the hope of finding ourselves,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "3c811e3f-4ca6-4397-af94-c76bc9e3739f"
+    },
+    {
+      "start_time": 524,
+      "end_time": 527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the hope of meeting up,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "50d49b66-e790-45f6-9613-04fe196d9ea0"
+    },
+    {
+      "start_time": 527,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the hope of finding civilisation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "96410041-f219-44aa-9f50-5ae42a647e2f"
+    },
+    {
+      "start_time": 532,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salute the genius of men of liberty,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "3c21dd3c-4e89-4ec0-bc8b-82ba1fc65b60"
+    },
+    {
+      "start_time": 536,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salute the peaceful victories"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d29df666-3a3a-45c6-9066-7913ae0027d8"
+    },
+    {
+      "start_time": 542,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of peaceful men."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "59ab9ed3-7d7c-4cf5-9681-c709d9c00eee"
+    },
+    {
+      "start_time": 545,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salute all the monuments of Paris."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1d84e852-3224-477e-9625-4a51d5ad498c"
+    },
+    {
+      "start_time": 547,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Witnesses of glories past and present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6918a7b9-8b40-451a-9aa9-52c4266f393a"
+    },
+    {
+      "start_time": 934,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The world, in the Latin Quarter, assembles itself,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "4102d4c9-7403-413f-8d41-08da8e2414e3"
+    },
+    {
+      "start_time": 937,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "assimilates itself,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "9fa8dc9e-12bc-49d7-8171-9c04af16fe5b"
+    },
+    {
+      "start_time": 940,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to try to melt, in the sun of love,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "5c1ca120-3a37-42f1-98df-7b3375d3e40b"
+    },
+    {
+      "start_time": 943,
+      "end_time": 948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the ancient barriers of prejudice and monuments of hate,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "2ea52551-0664-4c11-9d58-2c2184a46636"
+    },
+    {
+      "start_time": 948,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in order to bring closer, in order to understand,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a0810d3a-5dd6-436d-9b3e-f76943a48de2"
+    },
+    {
+      "start_time": 952,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "despite the falsifications"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "15089e70-908a-438d-95ef-7d8c557a1653"
+    },
+    {
+      "start_time": 955,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that men have wrought"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "242ed0c9-4aa9-425f-9893-9f8ae4c9cf4d"
+    },
+    {
+      "start_time": 957,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "on the history of good peoples."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "dcd2119e-6d02-4556-a662-e5fba252a793"
+    },
+    {
+      "start_time": 960,
+      "end_time": 962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Calculated solidarity"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "0555a552-2ecb-43c3-aecb-2e28df813e14"
+    },
+    {
+      "start_time": 962,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and a fraternity of principle, without warmth,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "250b9211-db2e-453e-b9b1-c8a8bf733d69"
+    },
+    {
+      "start_time": 966,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "make way for happiness shared,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "20631bab-b4d1-4dbf-95d9-d1f80c785f2e"
+    },
+    {
+      "start_time": 970,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "make way for earthly foods."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "659f2f68-7d03-4e6d-be47-c30f14e523ac"
+    },
+    {
+      "start_time": 973,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fruits of the earth for all,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6f6dfa77-af4a-49ff-a1b5-fb2b52731bf0"
+    },
+    {
+      "start_time": 976,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the fruits of culture for all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "592b378e-c915-45f1-af85-f093567421d0"
+    },
+    {
+      "start_time": 983,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's in this old quarter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c2542c27-80bf-4850-944a-f4d3b334132a"
+    },
+    {
+      "start_time": 986,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of letters and science,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "327a6e82-59b2-4ff4-add9-9d1c0dea147c"
+    },
+    {
+      "start_time": 990,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that the wind of hope blows,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "b514490c-29f0-4d57-a4bc-098883d7be06"
+    },
+    {
+      "start_time": 994,
+      "end_time": 997,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the wind of happiness and of love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6d29dfbf-7f0a-4ca2-a577-ed9013f8830f"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1052,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And evenings,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "83c5cf03-2293-4459-90a5-2e5db60ce60d"
+    },
+    {
+      "start_time": 1052,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "together at feasts of friendship,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "c6309300-cd24-4a7c-a2c7-cc4a4dac7932"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the belly full,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "29de9dd0-b8b7-47c0-b760-2dba7a8c47b2"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the face radiant,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "facfecc4-3853-4500-a7dc-8347ebf62954"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the heart open and the arms outstretched,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a10a688b-3373-408f-b774-654584161176"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "despite men's machinations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "63a3b41c-3dc0-4396-bd29-054d32bf1562"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, still together,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "40879913-6e30-4064-935c-7879c9aeb703"
+    },
+    {
+      "start_time": 1194,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "black friends and yellow friends,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "756e4ff3-98fb-4791-abb7-d8b781fbfd72"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "black friends and white friends,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1a1b8d32-9aa6-42ae-bf8c-74bd4742464f"
+    },
+    {
+      "start_time": 1200,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in our dances of love,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "6134ffd3-818a-4b12-8b95-ca8afb5bacf4"
+    },
+    {
+      "start_time": 1203,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "heart to heart,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "9662a4a4-7de5-4bbf-bead-f3ad1c20a298"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "side by side, beyond the darkness,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "368fcd88-5707-4045-9fda-856b0377e80b"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we are winning the battle of light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "96086ae8-b690-433b-a89a-7095bea237b0"
+    },
+    {
+      "start_time": 1212,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before God"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "d698393f-0091-4f94-a1e1-311cc0c013cd"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and before others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "66504da8-63fd-43fd-8f9a-d61369a5e0a9"
+    },
+    {
+      "start_time": 1283,
+      "end_time": 1288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subtitles: ECLAIR"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7eb5341e-4136-452f-9a5d-23b3922d821a"
+    },
+    {
+      "start_time": 1288,
+      "end_time": 1292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Afrique-sur-Seine is a collective film made in 1955"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a2613fc5-b751-45c7-af13-2c964a913dcd"
+    },
+    {
+      "start_time": 1292,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "by Paulin Soumanou Vieyra and Mamadou Sarr."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "772bc311-4971-4ab1-92da-088e7bb5fb95"
+    },
+    {
+      "start_time": 1295,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The orginal 16mm negative having disappeared,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "37fb6e05-4c1e-4782-89d9-af85061bc20d"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the film has been restored from an interpositive,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "67d3e0c5-a043-4d20-9bc0-4f3794c08d61"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the best photochemical element known to exist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "28607251-68a4-4862-909e-b7c3cc3533d8"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This incomplete copy included many black frames."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "bee6c869-52cb-4749-bd41-039c17de1256"
+    },
+    {
+      "start_time": 1308,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To make the movie more watchable,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "749521d5-011d-4d14-a709-5b5d8d96c3ec"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it was decided to establish a digital version of the remaining master"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "0770a7dc-604c-400e-8e9c-1508427bd370"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and to delete the black frames we could not recreate,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "0abc6732-405d-4158-829a-2ac030aeda3d"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as well as head leaders."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "fb2958e2-e4c4-40f2-85c7-6a90c144fc58"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The soundtrack, rescued from a 16mm sound negative"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "1c8e19ce-cf27-43e8-9fe6-224314775b59"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and longer than the restored images,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "49165297-7e6e-4e69-8495-d1cdb1389c95"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "has been edited and adapted for more comfortable listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "115f355c-a682-4391-9aa0-4aa7698e1eca"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The original file has been digitally preserved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "51f5769b-e74d-433c-88a0-6c2abed1fe43"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This film is a part of the African Film Library's restoration plan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "a80060ee-7012-4093-a58a-2027766cc0e5"
+    },
+    {
+      "start_time": 1341,
+      "end_time": 1345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "initiated by the CPCA (African film heritage committee)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        }
+      ],
+      "uuid": "7c6fd032-7376-4141-8fd0-74e2818a528e"
+    },
+    {
+      "start_time": 99,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A la face du soleil"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "ec296a55-5cf7-4196-b4a1-7aab11e11e0c"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "et des ayeurs, nous crions alors notre l'independence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "953a4c90-6411-4f8d-8f5a-34fde90d6afd"
+    },
+    {
+      "start_time": 104,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeune, insoucieux"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "a79b5c17-8818-4eec-bb38-e8f1c61c0714"
+    },
+    {
+      "start_time": 106,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ignorant du monde qui nous entourer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "8f4e889d-acf7-4be5-b538-86a031a8afd6"
+    },
+    {
+      "start_time": 110,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nous ignorions le region qui limiter notre coin d'Afrique."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "23f0cfe6-4018-4626-9257-a5d44377d60a"
+    },
+    {
+      "start_time": 114,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nous ignorions qui peut-etait exister d'autres regions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "d49bac9d-7dd2-4aef-abe4-0d676c2d171d"
+    },
+    {
+      "start_time": 118,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ou des petits noirs, les petits jaunes,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "4cc344ba-542c-46de-bc5a-887ca26a1bc4"
+    },
+    {
+      "start_time": 121,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ou petit blanches joueait,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "5e8b31be-703a-420b-a776-20dbeaa46496"
+    },
+    {
+      "start_time": 123,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se battait dans d'autres fleuves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "0740a792-aef1-45f3-b702-6c27c9c32435"
+    },
+    {
+      "start_time": 125,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Et nous avions notre Niger,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "bc47b1e3-3983-4df1-a566-818674ab9419"
+    },
+    {
+      "start_time": 129,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "notre soleil, notre foret."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "c7f1e149-bb10-4c56-be67-8b4403d096c2"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C'etait les bons temps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "80bc517a-886c-4735-bee7-3c47caaa20a2"
+    },
+    {
+      "start_time": 135,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Les temps du royaume des enfants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "3c2cd82b-5678-4a02-9ece-453eaa5054f0"
+    },
+    {
+      "start_time": 138,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Les enfants de toute la terre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "8b9290c9-b8bc-40b6-aef2-2f67cf811773"
+    },
+    {
+      "start_time": 141,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il y a de cela..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "43415b71-bea3-4175-a90e-e92a478bf906"
+    },
+    {
+      "start_time": 144,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quel importe les temps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "f6271807-33d6-43dd-8a9a-490fc0bca212"
+    },
+    {
+      "start_time": 155,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il fallu grandir et quitter le pays pour Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "a8d9ce16-6bdd-4538-9d3c-bed5939e33d7"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "capital du monde, capital de l'Afrique Noire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "8ddbde04-28df-461b-bc34-4ce5e3e7f3c6"
+    },
+    {
+      "start_time": 163,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ici,la brume a remplace le soleil."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "c3bc68da-b63c-442c-a60d-c5379d271550"
+    },
+    {
+      "start_time": 167,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Les cles(?) des machines, ceux des hommes de nature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "4374cb90-8a0b-43bc-9185-8087fd0c9997"
+    },
+    {
+      "start_time": 171,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mais Paris est le centre d'espoir,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "ddf6832c-142e-4ced-83f6-3740e53e475b"
+    },
+    {
+      "start_time": 174,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de tout l'espoir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "d463491c-9b07-460b-aa07-4fadb4208069"
+    },
+    {
+      "start_time": 177,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris est aussi le ville de promesses"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "041a2aa0-7fdc-474d-aa6d-48b55bf05770"
+    },
+    {
+      "start_time": 179,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "faite par les jeunes alors pays des aides."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "c57b5f4f-5151-4825-a44d-94c9bd96a7bc"
+    },
+    {
+      "start_time": 185,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "7e72a001-fdee-4fdc-94d8-8152061ed68e"
+    },
+    {
+      "start_time": 187,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ou sont donc les chemins en or de nos contes enfant?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "2d7077d1-9864-4270-be04-fc45b6713f10"
+    },
+    {
+      "start_time": 248,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ces chemins sont devenues"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "cf8b1396-c0e3-44d7-8329-8d693d6a7c93"
+    },
+    {
+      "start_time": 250,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boulevard Saint-Germain,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "69a86c6d-d27f-4cbc-88cd-cfa0168bfaa7"
+    },
+    {
+      "start_time": 252,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Rue de l'Odeon,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "5b9431f5-1689-41d1-b059-cc9ca9fc9f8f"
+    },
+    {
+      "start_time": 254,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Maison Moliere, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "44bcccaa-3ab8-4fef-98db-edb282736dfe"
+    },
+    {
+      "start_time": 256,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Place de la Comedie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "171a7eb5-c5b3-4a3f-b251-54a3930ab52c"
+    },
+    {
+      "start_time": 259,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ou j'ai trouve, un matin,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "68b795bf-e294-430a-b334-de1f17e7e6b6"
+    },
+    {
+      "start_time": 263,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la civilisation a l'ecole de mains entendue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "bd4bc95c-8f92-41e7-b44b-ce4b4527d281"
+    },
+    {
+      "start_time": 273,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ces chemins,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "7452f753-7453-4231-92fb-118e1f4bd62b"
+    },
+    {
+      "start_time": 275,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sont encore la Rue de Medicis,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "9f6fc090-9234-4af0-9220-eff7658680b6"
+    },
+    {
+      "start_time": 280,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la Rue Soufflot,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "0c05e242-1efa-4e6f-9740-5f2e5d4426bd"
+    },
+    {
+      "start_time": 283,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la quartier latin, ou le chez soi pour les etudiants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "a0b98258-453b-4a6c-97c3-14918af522cc"
+    },
+    {
+      "start_time": 288,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O mort illustre du Pantheon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "9836447c-5604-425e-a458-114bc6f02337"
+    },
+    {
+      "start_time": 291,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ceux trouve quand il se trouve,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "80664b96-bacb-4c09-9ddd-1468fcde1fca"
+    },
+    {
+      "start_time": 294,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "dans les hotels"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ],
+      "uuid": "3f42663d-f965-4293-b353-0788c532f415"
+    }
+  ],
   "set": "Default",
   "event_id": "eff2e592-beef-4d05-b2f4-2833a3ed1009",
   "source_id": "b60a5655-5f99-41ac-b537-62d4cc94577f"

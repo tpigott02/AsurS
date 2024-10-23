@@ -1,1 +1,48 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"tpigott02","title":"Afrique sur Seine","description":"film ","language":"en","slug":"AsurS","creator":"tpigott02","authors":"","media_player":"aviary","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"Scenes"},{"category":"_uncategorized_","tag":"\"Thematic\" Scenes"},{"category":"_uncategorized_","tag":"English Subtitles"},{"category":"_uncategorized_","tag":"Dialogues Français"}]},"created_at":"2024-10-23T16:00:13.014Z","updated_at":"2024-10-23T16:11:37.095Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "tpigott02",
+    "title": "Afrique sur Seine",
+    "description": "film ",
+    "language": "en",
+    "slug": "AsurS",
+    "creator": "tpigott02",
+    "authors": "",
+    "media_player": "aviary",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Scenes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Thematic\" Scenes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "English Subtitles"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogues Français"
+        }
+      ]
+    },
+    "created_at": "2024-10-23T16:00:13.014Z",
+    "updated_at": "2024-10-23T16:11:38.051Z"
+  }
+}
